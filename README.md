@@ -1,0 +1,2 @@
+# academiapython
+.\Exercícios
